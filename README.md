@@ -1,4 +1,4 @@
-# Convolutional Neural Network/CIFAR10
+# Convolutional Neural Network/raw-dataset
 
 Dataset Description [Here](https://www.cs.toronto.edu/~kriz/cifar.html):
 
