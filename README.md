@@ -1,4 +1,4 @@
-# VGG16-CIFAR10
+# Convolutinal Neural Network/CIFAR10
 
 Dataset Description ([HERE](https://www.cs.toronto.edu/~kriz/cifar.html)):
 
